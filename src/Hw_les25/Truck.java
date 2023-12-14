@@ -1,6 +1,6 @@
 package Hw_les25;
 
-public class Truck extends Cars {
+public class Truck extends Car {
 
     private int currentWeight = 0;
 

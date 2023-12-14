@@ -1,6 +1,6 @@
 package Hw_les25;
 
-public class Cars {
+public class Car {
     private String model;
     private String manufacturer;
     private int year;
@@ -9,7 +9,7 @@ public class Cars {
     public int currentFuel = 0;
     private String owner;
 
-    public Cars(String model, String manufacturer, int year, String color, int maxFuel, String owner) {
+    public Car(String model, String manufacturer, int year, String color, int maxFuel, String owner) {
         this.model = model;
         this.manufacturer = manufacturer;
         this.year = year;

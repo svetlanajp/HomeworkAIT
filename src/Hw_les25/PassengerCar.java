@@ -1,6 +1,6 @@
 package Hw_les25;
 
-public class PassengerCar extends Cars {
+public class PassengerCar extends Car {
 
     private int maxPass;
 
